@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyMapApp</string>
+    <string name="title_section1">KARTA</string>
+    <string name="title_section2">LISTA</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_key">AIzaSyBXB37JsNV1DVUCY0YteS6ep5j0p53FKjU</string>
+
+</resources>
